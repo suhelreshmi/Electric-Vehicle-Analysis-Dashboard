@@ -1,8 +1,8 @@
 # Electric-Vehicle-Analysis-Problem-Statement
 
-1.	Import the attached CSV files (Electric Vehicle Population dataset.csv).
+Import the attached CSV files (Electric Vehicle Population dataset.csv).
 
-2.	Perform the following data cleaning operations in PowerBI.
+Perform the following data cleaning operations in PowerBI.
 
 a.	Rename the values of Electric vehicle type column. Battery Electric Vehicle (BEV) to Battery Electric Vehicle. Plug-in Hybrid Electric Vehicle (PHEV) to Hybrid Electric Vehicle.
 
@@ -13,7 +13,7 @@ c.	Create a new variable Electric Range Bin which will have 3 values (High, low 
 d.	In vehicle location column, latitudes and longitudes of the locations are given. Create 2 new columns based on this column. First column name will be Latitude_location which will have first numeric value and 2nd column will be Longitude_location which will have second numeric value.
 Eg: POINT (-122.34301 47.659185) will have -122.34301 in latitude_location and 47.659185 in longitude_location.
 
-3.	KPIs requirement for Dashboard build:
+KPIs requirement for Dashboard build:
 
 a)	Total Vehicles:
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
@@ -29,7 +29,7 @@ d)	Total PHEV Vehicles and % of Total PHEV Vehicles:
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-4.	Charts Requirement:
+Charts Requirement:
 
 a)	Total Vehicles by Model Year (From 2011 Onwards):
 Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2011, providing insights into the growth pattern and adoption trends.
@@ -46,4 +46,4 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 e)	Top 10 Total Vehicles by Model:
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
-5.	Add 2 Navigation buttons also in this dashboard , so that when user clicks on that button it will take him to the other screen/chart/dashboard. On that other screen/chart/dashboard, add 1 Navigation button with the "Back" option. So that when user clicks on "Back" button, user will come back to main dashboard.
+Add 2 Navigation buttons also in this dashboard , so that when user clicks on that button it will take him to the other screen/chart/dashboard. On that other screen/chart/dashboard, add 1 Navigation button with the "Back" option. So that when user clicks on "Back" button, user will come back to main dashboard.
