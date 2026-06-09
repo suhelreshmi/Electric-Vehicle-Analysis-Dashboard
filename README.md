@@ -16,3 +16,8 @@ Analyzing EV growth trends over time.
 Identifying leading manufacturers and vehicle models.
 Evaluating CAFV (Clean Alternative Fuel Vehicle) eligibility.
 Examining geographic distribution of EVs across states.
+
+## EV Dashboard
+
+
+<img width="1323" height="743" alt="EV_Dashboard_Img" src="https://github.com/user-attachments/assets/a81e82b6-ef16-4844-be74-713082616437" />
